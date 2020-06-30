@@ -6,4 +6,10 @@ Community-driven efforts to discuss ML or NLP papers specifically with respect t
 Interested to join these discussions in the future? Check out our future events here and join the discussion in our [Slack Group!](https://join.slack.com/t/deepcommunity/shared_invite/zt-fl1lypz8-4sVbARi~bBrrPNsb2kX~KQ)
 
 
+## June 29th - 1st Session - Reading Paper - A Unified Approach to Interpreting Model Predictions
+### http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
+
+#### We all read this paper and discussed some of the concepts and importance of interpretability. Each of us shared lots of business insights and also shared relevant links for others to learn more about interpretability. 
+
+
 
