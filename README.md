@@ -14,7 +14,7 @@ If you want to join this session, join our [Slack Group!](https://join.slack.com
 ## June 29th - Monday - 1st Session - Reading Paper - A Unified Approach to Interpreting Model Predictions
 ### http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
 
-#### We all read this paper and discussed some of the concepts and importance of interpretability. Shope about SHAP, its history, pros and cons between LIME, DeepLIF and Tree SHAP. Each of us shared lots of business insights and also shared relevant links for others to learn more about interpretability. 
+#### We all read this paper and discussed some of the concepts and importance of interpretability. Spoke about SHAP, its history, pros and cons between LIME, DeepLIF and Tree SHAP. Each of us shared lots of business insights and also shared relevant links for others to learn more about interpretability. 
 
 
 
